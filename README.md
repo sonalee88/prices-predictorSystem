@@ -1,5 +1,4 @@
-# prices-predictorSystem
-# 🧠 Prices Prediction System
+# Prices Prediction System
 
 A machine learning-based system for predicting prices of commodities/products using historical data and statistical analysis. This project is built to support better decision-making in domains like retail pricing, stock forecasting, and real estate valuation.
 
@@ -12,7 +11,7 @@ A machine learning-based system for predicting prices of commodities/products us
 - 📈 **Visual insights and performance evaluation**
 
 ## 🏗️ Project Structure
-
+```bash
 prices-predictorSystem/
 │
 ├── analysis/
@@ -35,11 +34,7 @@ prices-predictorSystem/
 │
 ├── requirements.txt
 └── README.md
-
-bash
-Copy
-Edit
-
+```
 ## 🛠️ Installation
 
 1. Clone the repository:
